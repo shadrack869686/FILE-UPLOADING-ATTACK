@@ -1,0 +1,9 @@
+HTTP/2 200 OK
+Date: Thu, 17 Jul 2025 07:20:17 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: SAMEORIGIN
+Content-Length: 132
+
+The file avatars/exploit.php has been uploaded.<p><a href="/my-account" title="Return to previous page">« Back to My Account</a></p>
